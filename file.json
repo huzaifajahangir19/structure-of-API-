@@ -1,0 +1,59 @@
+[
+
+    {
+        "id": "1001",
+        "username": "Huzaifa",
+        "email": "huzaifa@gmail.com",
+        "class": "matric"
+
+    } ,
+
+    {
+        "id": "1002",
+        "username": "faraz",
+        "email": "faraz@gmail.com",
+        "class": "matric"
+
+    } ,
+
+    {
+        "id": "1003",
+        "username": "adeel",
+        "email": "adeel@gmail.com",
+        "class": "matric"
+
+    } ,
+
+    {
+        "id": "1004",
+        "username": "talha",
+        "email": "talha@gmail.com",
+        "class": "matric"
+
+    } ,
+
+    {
+        "id": "1005",
+        "username": "wasay",
+        "email": "wasay@gmail.com",
+        "class": "matric"
+
+    } ,
+
+    {
+        "id": "1006",
+        "username": "haseeb",
+        "email": "haseeb@gmail.com",
+        "class": "matric"
+
+    } ,
+
+    {
+        "id": "1007",
+        "username": "abdullah",
+        "email": "andullah@gmail.com",
+        "class": "matric"
+
+    } 
+
+]
